@@ -13,7 +13,6 @@ export const Navbar = () => {
                         className="rounded-full"
                     />
                     <p className='p-5 text-xl text-center'>Suphakit Ranphol</p>
-                    <p className='p-5 text-xl text-center'>66026167</p>
                     </div>
             </div>
         </>
