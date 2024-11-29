@@ -27,27 +27,7 @@ export default function Photo() {
               alt="byou"
               className="py-2 rounded-2xl"
             />
-             <Image
-              src="/photo/furry.gif"
-              width={500}
-              height={500}
-              alt="furry"
-              className="py-2 rounded-2xl"
-            />
-             <Image
-              src="/photo/gojo.gif"
-              width={500}
-              height={500}
-              alt="gojo"
-              className="py-2 rounded-2xl"
-            />
-           <Image
-              src="/photo/nagatoro.gif"
-              width={500}
-              height={500}
-              alt="nagatoro"
-              className="py-2 rounded-2xl"
-            />
+             
         </div>
       </div>
     </>
