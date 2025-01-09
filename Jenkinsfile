@@ -3,7 +3,7 @@ pipeline {
     stages {      
         stage("Copy file to Docker server"){
             steps {
-                sh "scp -r /var/lib/jenkins/workspace/team20-port/* root@54.252.241.27:~/team20-port"
+                sh "scp -r /var/lib/jenkins/workspace/team20-port/* root@3.106.213.32:~/team20-port"
             }
         }
         
